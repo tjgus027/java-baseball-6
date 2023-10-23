@@ -10,7 +10,7 @@ public enum ResultType {
     BALL{
         @Override
         public String toString() {
-            return "볼";
+            return "볼 ";
         }
     },
     NOTHING{
